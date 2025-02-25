@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Hash Table
 |  |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2025/tree/master/2564-most-profitable-path-in-a-tree) |
+## Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
